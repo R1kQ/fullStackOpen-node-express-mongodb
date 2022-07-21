@@ -1,0 +1,27 @@
+{
+  "name": "fullstackopen-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R1kQ/fullStackOpen-node-express-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R1kQ/fullStackOpen-node-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/R1kQ/fullStackOpen-node-express-mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
